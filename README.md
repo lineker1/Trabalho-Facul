@@ -2,4 +2,4 @@
 
 
 ## Links úteis
-[sintaxe basica markdown] (www.markdownguide.org/basic-sintax)
+[sintaxe basica markdown] (https://www.markdownguide.org/basic-sintax/)
